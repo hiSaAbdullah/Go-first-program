@@ -5,5 +5,8 @@ import (
 )
 
 func main() {
+
 	fmt.Println("Hello Go Programming")
+	fmt.Println("let's go !")
+
 }
